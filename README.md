@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Farhan
-- I'm interested in Software Engineering and Cloud Engineering 
-- I'm currently learning Front-End Web Development Learning Path
-- I'm looking to collaborate on Movie Catalogue project
+- 👀 I'm interested in Software Engineering and Cloud Engineering 
+- 👨‍🎓I'm currently learning Front-End Web Development Learning Path
+- 👨‍💻I'm looking to collaborate on Movie Catalogue project
 - How to reach me on 
 <a href="https://www.instagram.com/pukulanbalmon_18" target="_blank">Instagram</a>, 
 <a href="https://www.linkedin.com/in/farhan-20241221a/" target="_blank">LinkedIn</a>, and 
