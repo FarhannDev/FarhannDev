@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Farhan</h1>
-<h3 align="left">Frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucingoyenbarbar&label=Profile%20views&color=0e75b6&style=flat" alt="kucingoyenbarbar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kucingoyenbarbar" alt="kucingoyenbarbar" /></a> </p>
 
 - 💬 Ask me about **A 6th-semester student of Computer Science at Bina Sarana Informatika University, with a strong interest in web development. Proficient in HTML, CSS, Javascript, Node Js, React, Next.Js, REST API, Laravel, MYSQL Database, and Version Control System. Participated as an intern in the Kampus Merdeka Batch 3 program in 2022, specifically in the Fullstack Laravel Developer division. Possesses excellent communication skills, sociable, and demonstrates a high level of initiative in problem-solving and finding solutions. Enjoys learning new things and can work both independently and collaboratively within a team.**
 
