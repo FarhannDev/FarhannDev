@@ -1,24 +1,5 @@
-# Hi, I'm Farhan 👋
-
-A 6th-semester student of Computer Science at Bina Sarana Informatika University, with a strong interest in web development. Proficient in HTML, CSS, Javascript, Node Js, React, Next.Js, REST API, Laravel, MYSQL Database, and Version Control System. Participated as an intern in the Kampus Merdeka Batch 3 program in 2022, specifically in the Fullstack Laravel Developer division. Possesses excellent communication skills, sociable, and demonstrates a high level of initiative in problem-solving and finding solutions. Enjoys learning new things and can work both independently and collaboratively within a team.
-
-
-<!--
-**frhan18/frhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Farhan</h1>
+<h3 align="left">Frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucingoyenbarbar&label=Profile%20views&color=0e75b6&style=flat" alt="kucingoyenbarbar" /> </p>
 
