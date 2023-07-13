@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Farhan</h1>
+<h3 align="left">A passionate frontend developer from Indonesia</h3>
 
 - 💬 Ask me about **A 6th-semester student of Computer Science at Bina Sarana Informatika University, with a strong interest in web development. Proficient in HTML, CSS, Javascript, Node Js, React, Next.Js, REST API, Laravel, MYSQL Database, and Version Control System. Participated as an intern in the Kampus Merdeka Batch 3 program in 2022, specifically in the Fullstack Laravel Developer division. Possesses excellent communication skills, sociable, and demonstrates a high level of initiative in problem-solving and finding solutions. Enjoys learning new things and can work both independently and collaboratively within a team.**
+
+- 📫 How to reach me **https://www.linkedin.com/in/farhan-20241221a/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
