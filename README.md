@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucingoyenbarbar&label=Profile%20views&color=0e75b6&style=flat" alt="kucingoyenbarbar" /> </p>
 
-- 💬 Ask me about **A 6th-semester student of Computer Science at Bina Sarana Informatika University, with a strong interest in web development. Proficient in HTML, CSS, Javascript, Node Js, React, Next.Js, REST API, Laravel, MYSQL Database, and Version Control System. Participated as an intern in the Kampus Merdeka Batch 3 program in 2022, specifically in the Fullstack Laravel Developer division. Possesses excellent communication skills, sociable, and demonstrates a high level of initiative in problem-solving and finding solutions. Enjoys learning new things and can work both independently and collaboratively within a team.**
+- 💬 7th semester student of the computer science study program at the University of Bina Informatics who has an interest in the field of Web Development. And participated as a batch 3 Independent Campus intern in 2022 in the Fullstack Laravel Developer division. And have good communication skills, socialize easily, and have high initiative in solving problems and finding solutions, enjoy learning new things, and can work independently or in a team.**
 
 - 📫 How to reach me **farhan18042002@gmail.com**
 
