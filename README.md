@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucingoyenbarbar&label=Profile%20views&color=0e75b6&style=flat" alt="kucingoyenbarbar" /> </p>
 
-- 💬 7th semester student of the computer science study program at the University of Bina Informatics who has an interest in the field of Web Development. And participated as a batch 3 Independent Campus intern in 2022 in the Fullstack Laravel Developer division. And have good communication skills, socialize easily, and have high initiative in solving problems and finding solutions, enjoy learning new things, and can work independently or in a team.**
+- 💬 Saya adalah seorang mahasiswa semester akhir di universitas bina sarana informatika yang mengambil program studi Ilmu Komputer. Saya mempunyai minat di bidang teknologi pengembangan website seperti Front-End maupun Back-End. Selama perkuliahan saya pernah mengikuti program khusus dari Kemendikbudristek RI yaitu program Merdeka Belajar Kampus Merdeka. Dan saya juga memiliki kemampuan komunikasi yang baik, mudah bersosialisasi, dan memiliki inisiatif tinggi dalam memecahkan masalah dan mencari solusi, senang mempelajari hal-hal baru, serta dapat bekerja mandiri maupun dalam tim.**
 
 - 📫 How to reach me **farhan18042002@gmail.com**
 
