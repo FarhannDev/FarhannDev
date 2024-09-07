@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucingoyenbarbar&label=Profile%20views&color=0e75b6&style=flat" alt="kucingoyenbarbar" /> </p>
 
-- 💬 Saya adalah seorang mahasiswa semester akhir di universitas bina sarana informatika yang mengambil program studi Ilmu Komputer. Saya mempunyai minat di bidang teknologi pengembangan website seperti Front-End maupun Back-End. Selama perkuliahan saya pernah mengikuti program khusus dari Kemendikbudristek RI yaitu program Merdeka Belajar Kampus Merdeka. Dan saya juga memiliki kemampuan komunikasi yang baik, mudah bersosialisasi, dan memiliki inisiatif tinggi dalam memecahkan masalah dan mencari solusi, senang mempelajari hal-hal baru, serta dapat bekerja mandiri maupun dalam tim.**
+- 💬 I am a graduate of the informatics study program at the Informatics Facilities University campus, who has interest and experience in website development, both on the front-end and back-end side. I have experience using the Laravel framework and have skills in developing TypeScript and React based applications. During college, I also participated in the Merdeka Belajar Kampus Merdeka program, where I participated as a Fullstack Developer in a certified internship program for one year. I am always eager to learn new things, have high initiative, and am able to work independently and within hours.**
 
 - 📫 How to reach me **farhan18042002@gmail.com**
 
